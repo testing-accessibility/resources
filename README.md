@@ -1,15 +1,16 @@
 <div>
-  <h1 align="center">✨ Testing Accessibility Workshop Resources ✨</h1>
-  <strong>
-    Building accessible web applications with HTML, CSS, JavaScript, and React
-  </strong>
+  <h1 align="center">✨ Testing Accessibility with Marcy Sutton ✨</h1>
 
   <a href="https://testingaccessibility.com">
     <img
-      alt="Testing Accessibility Demos by Marcy Sutton"
+      alt="Testing Accessibility Workshops by Marcy Sutton"
       src="./ta-promo-image.png"
     />
   </a>
+  
+  <h2>
+    Resources for building accessible web applications with HTML, CSS, JavaScript, and React
+  </h2>
 
   <p>
     Ensuring your frontend code is accessible requires consistent development effort and testing of inclusive markup and scripted interactions. In these workshops we’ll build
