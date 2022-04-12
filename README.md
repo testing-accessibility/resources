@@ -8,7 +8,7 @@
     />
   </a>
   
-  <h2>
+  <h2 align="center">
     Resources for building accessible web applications with HTML, CSS, JavaScript, and React
   </h2>
 
@@ -19,5 +19,5 @@
     applications, from the absolute basics with HTML and CSS to the tricky parts you’ll run into building and testing JavaScript-heavy components.
   </p>
 
-  <p>In this repo, you’ll find resources for all of the Testing Accessibility workshops. It is meant to be a companion to the workshop repos found in this same GitHub org: <a href="https://github.com/testing-accessibility">https://github.com/testing-accessibility</a></p>
+  <p>In this repo, you’ll find resources for all of the <a href="https://testingaccessibility.com">Testing Accessibility workshops</a>. It is meant to be a companion to the workshop repos found in this same GitHub org: <a href="https://github.com/testing-accessibility">https://github.com/testing-accessibility</a></p>
 </div>
