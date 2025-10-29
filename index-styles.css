@@ -59,6 +59,7 @@ main .exercise-list > li {
 }
 #resources main .exercise-list > li {
     border-bottom: none;
+    break-inside: avoid;
     margin-top: 0;
 }
 footer {
